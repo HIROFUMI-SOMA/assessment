@@ -1,2 +1,2 @@
 # assessment
-あなたのいいところ診断ゲーム
+HIROFUMI-SOMAが作ったあなたのいいところ診断ゲーム
